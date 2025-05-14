@@ -1,2 +1,20 @@
 [
+  {
+    "name": "Home Assistant",
+    "url": "https://homeassistant.kohlesfamily.org",
+    "icon": "https://icons.duckduckgo.com/ip3/homeassistant.kohlesfamily.org.ico",
+    "slug": "home-assistant",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 243,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
+    "dailyMinutesDown": {}
+  }
 ]
