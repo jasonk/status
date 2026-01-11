@@ -1,7 +1,7 @@
 url: https://homeassistant.kohlesfamily.org
-status: down
-code: 502
-responseTime: 297
-lastUpdated: 2026-01-11T23:25:15.056Z
+status: up
+code: 200
+responseTime: 373
+lastUpdated: 2026-01-11T23:36:10.811Z
 startTime: 2025-05-14T21:49:36.482Z
 generator: Upptime <https://github.com/upptime/upptime>
